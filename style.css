@@ -1,0 +1,68 @@
+.box{
+	font-family: sans-serif;
+background-color:rgb(69, 69, 70);
+}
+img{
+	height: 15em;
+	padding: 20px;
+}
+.head{
+	margin-top: 30px;
+	color: white;
+	font-size: 50px;
+	font-family: "Pacifico";
+}
+p{
+	color: white;
+	font-family: "time new roman";
+	font-style: italic;
+	font-size: 20px;
+}
+
+.quotes{
+
+	background-color: rgb(135, 135, 135);
+	/*width: 40%;*/
+	/*margin-right: auto;*/
+	/*margin-left: auto;*/
+	border-color: white;
+	border-style: solid;
+	border-radius: 5px;
+	margin-top: 20px;
+	padding: 20px;
+	height: auto;
+	color: white;
+}
+.quote{
+	font-size: 30px;
+	font-family: "time nwe roman";
+	font-style: italic;
+}
+.author{
+	margin-left: 10px;
+	font-size: 20px;
+	font-family: "Dancing Script";
+	font-style: italic;
+}
+.btn{
+margin-top: 20px;
+	width: 200px;
+	height: 50px;
+	font-family: "time new roma";
+	font-style: italic;
+	font-weight: 900;
+}
+.bbt{
+	font-weight: 900;
+	font-size: 20px;
+}
+.copyright{
+	margin-top: 50px;
+}
+
+.footer{
+	margin-left: auto;
+	margin-right: auto;
+margin-top: 20px;
+width:500px;
+}
